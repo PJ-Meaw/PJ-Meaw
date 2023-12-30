@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1> Hi there! 👋 My name is Pathinya Jongsupangpan</h1>
 
 <!--
 **PJ-Meaw/PJ-Meaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 About me</h2>
+<p>I am a <b>Software developer</b> (specialzing Front-End) and I ever intern at FutureSkill 2022 and [Codediva](https://codediva.co.th/) 2023. Now I'm senior senior computer engineering student at KMUTT </p>
+<h2>  &nbsp;Some Tools I Have Used and Learned </h2>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
