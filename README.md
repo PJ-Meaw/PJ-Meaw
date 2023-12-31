@@ -33,6 +33,17 @@ I am a <b>Software developer</b> (specialzing Front-End) and I interned at <a hr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="vscode" width="45" height="45"/>
+</p>
+
+<h3> Blockchain Development </h3>
+<p>
+<img src="metamask.svg" alt="vscode" width="45" height="45"/>
+<img src="og.png" alt="vscode" width="45" height="45"/>
+<img src="Ipfs.png" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="vscode" width="45" height="45"/>
+
 </p>
 
 <h3> Design Tools </h3>
