@@ -2,7 +2,7 @@
 
 <h2> 🚀 About me</h2>
 I am a <b>Software developer</b> (specialzing Front-End) and I interned at <a href="https://futureskill.co/">FutureSkill </a> 2022 and <a href="https://codediva.co.th/">Codediva </a>2023. Now I'm senior computer engineering student at KMUTT and will graduate in mid-2024 <br>
-My portfolio : <a href="https://portfolio-pj-meaw.vercel.app/"> https://portfolio-pj-meaw.vercel.app/</a> <br>
+<p>My portfolio : <a href="https://portfolio-pj-meaw.vercel.app/"> https://portfolio-pj-meaw.vercel.app/</a> </p>
 
 - 🏠 I live in Bangkok, Thailand
 - ✍️ Currenly, I am working on Senior project KMUTT
